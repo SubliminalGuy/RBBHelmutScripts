@@ -1,0 +1,44 @@
+{
+  "files": {
+    "ExtendScripts/renameFilesExperiment.js": [
+      {
+        "id": "570ded2a-3e9d-41e6-80cf-f6b4e5d4e97b",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "Premiere.json": [
+      {
+        "id": "3436fcf3-104f-42e7-baac-e938146eba62",
+        "line": 1,
+        "version": 13,
+        "index": 0
+      }
+    ],
+    "changeDate.ts": [
+      {
+        "id": "adc933cf-70ad-4307-8a36-62d7ec923a80",
+        "line": 14,
+        "version": 0,
+        "index": 264
+      }
+    ],
+    "changeFastlangeTarget.js": [
+      {
+        "id": "568f8df3-d78d-4029-89b8-8bba7d2c7916",
+        "line": 8,
+        "version": 150,
+        "index": 126
+      }
+    ],
+    "job.json": [
+      {
+        "id": "f6bd22c0-9f4e-46db-8ce0-6bbfae9085fa",
+        "line": 1,
+        "version": 141,
+        "index": 0
+      }
+    ]
+  }
+}
